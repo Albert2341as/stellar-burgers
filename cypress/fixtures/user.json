@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "success": true,
     "accessToken": "Kebab",
     "refreshToken": "Shawarma",
@@ -7,3 +8,11 @@
       "name": "burger"
     }
   }
+=======
+  "success": true,
+  "user": {
+    "email": "lleksiv@gmail.com",
+    "name": "Georg Shakillow"
+  }
+}
+>>>>>>> 1b5033479af1314ba34b929cd7491d8cb85573b9
